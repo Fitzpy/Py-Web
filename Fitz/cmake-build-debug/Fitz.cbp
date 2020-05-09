@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Fitz"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/py/CLionProjects/Fitz/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/py/CLionProjects/Fitz/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/py/CLionProjects/Fitz/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Fitz">
+				<Option output="/home/py/CLionProjects/Fitz/cmake-build-debug/Fitz" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/py/CLionProjects/Fitz/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 Fitz"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Fitz/fast">
+				<Option output="/home/py/CLionProjects/Fitz/cmake-build-debug/Fitz" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/py/CLionProjects/Fitz/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 Fitz/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/py/CLionProjects/Fitz/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/py/CLionProjects/Fitz/AsyncLogging.cpp">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/AsyncLogging.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/Channel.cpp">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/Channel.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/Condition.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/CountDownLatch.cpp">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/CountDownLatch.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/CurrentThread.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/Epoll.cpp">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/Epoll.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/EventLoop.cpp">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/EventLoop.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/EventLoopThread.cpp">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/EventLoopThread.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/EventLoopThreadPool.cpp">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/EventLoopThreadPool.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/FileUtil.cpp">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/FileUtil.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/HttpMessage.cpp">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/HttpMessage.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/HttpServer.cpp">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/HttpServer.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/LogFile.cpp">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/LogFile.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/LogStream.cpp">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/LogStream.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/Logging.cpp">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/Logging.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/MutexLock.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/Thread.cpp">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/Thread.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/Timer.cpp">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/Timer.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/Util.cpp">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/Util.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/main.cpp">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/noncopyable.h">
+			<Option target="Fitz"/>
+		</Unit>
+		<Unit filename="/home/py/CLionProjects/Fitz/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

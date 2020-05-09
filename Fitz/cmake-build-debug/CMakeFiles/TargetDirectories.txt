@@ -1,0 +1,3 @@
+/home/py/CLionProjects/Fitz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/py/CLionProjects/Fitz/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/py/CLionProjects/Fitz/cmake-build-debug/CMakeFiles/Fitz.dir
